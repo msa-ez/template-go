@@ -3,5 +3,6 @@ rating: 5
 imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/129ca40e-0cb4-4c7e-9a64-5715dfa9344c
 templateName: go
 description: Text-based template system that facilitates dynamically generating text by combining data and templates.
+testModel: testmodel
 tags:
   - Go
